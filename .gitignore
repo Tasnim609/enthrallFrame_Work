@@ -1,0 +1,7 @@
+.setting
+.classpath
+.gitignor
+.project
+target
+test-output
+.DS_Store
